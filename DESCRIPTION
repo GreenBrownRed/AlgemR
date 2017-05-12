@@ -1,0 +1,10 @@
+Package: AlgemR
+Title: R based processing and visualisation of Algem photobioreactor data
+Version: 0.0.0.9000
+Authors@R: person("Michiel", "Matthijs", email = "mm@algenuity.com", role = c("aut", "cre"))
+Description: A variety of functions which facilitates the reading and graphing of Algem data.
+Depends: R (>= 3.3.1)
+License: GNU-GPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
